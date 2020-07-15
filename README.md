@@ -1,8 +1,24 @@
-### Hi there 👋
+# Uğur Uyar
+
+<hr>
+
+### 📝 Latest articles from [dev.to](https://dev.to/uguruyar)
+
+
+
+<p align="center">
+
+<img src="https://visitor-badge.glitch.me/badge?page_id=uguruyar.uguruyar" />
+<img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fuguruyar" />
+
+</p>
+
+
+
 
 <!--
 **uguruyar/uguruyar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hi there 👋
 
 Here are some ideas to get you started:
 
