@@ -4,13 +4,16 @@
 
 ![Uğur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=uguruyar&show_icons=true)
 
-
-
 ## Know / Using 🧠
 
-<code><a href="https://www.microsoft.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></a></code>
+<code><a href="https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-3.1" target="_blank"><img height="50" src="https://www.brandeps.com/logo-download/M/Microsoft-Dotnet-logo-vector-01.svg"></a></code>
+<code><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img height="50" src="https://www.brandeps.com/logo-download/C/C-Sharp-logo-vector-01.svg"></a></code>
+<code><a href="https://www.microsoft.com/tr-tr/sql-server/sql-server-downloads/" target="_blank"><img height="50" src="https://www.brandeps.com/logo-download/M/Microsoft-sql-server-logo-vector-01.svg"></a></code>
+<code><a href="#" target="_blank"><img height="50" src="https://www.brandeps.com/logo-download/H/HTML-5-logo-vector-01.svg"></a></code>
+<code><a href="https://getbootstrap.com/" target="_blank"><img height="50" src="https://www.brandeps.com/logo-download/B/Bootstrap-logo-vector-01.svg"></a></code>
 <code><a href="https://www.vuejs.org" target="_blank"><img height="50" src="https://www.brandeps.com/logo-download/V/Vue-JS-logo-vector-01.svg"></a></code>
-<code><a href="https://www.gitlab.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></a></code>
+<code><a href="https://reactnative.dev/" target="_blank"><img height="50" src="https://www.brandeps.com/logo-download/R/React-logo-vector-01.svg"></a></code>
+<code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.brandeps.com/logo-download/D/Docker-logo-vector-01.svg"></a></code>
 <code><a href="https://code.visualstudio.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code>
 
 
