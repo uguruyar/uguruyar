@@ -1,18 +1,3 @@
-# Here is What I'm Working On Uğur Uyar 👋
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... 
-- 🌱 I’m currently learning ... Vue.Js
-- 👯 I’m looking to collaborate on ... 
-- 🤔 I’m looking for help with ... AWS
-- 💬 Ask me about ... Anything
-- 📫 How to reach me: ... 
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I am Star Wars Fan.
-
-
 <h1 align="center">Hi 👋, I'm Uğur Uyar</h1>
 <h3 align="center">A passionate Software Developer from Turkey</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uguruyar" alt="uguruyar" /> </p>
