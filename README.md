@@ -16,6 +16,17 @@
 <code><a href="https://www.docker.com/" target="_blank"><img height="40" src="https://www.brandeps.com/logo-download/D/Docker-logo-vector-01.svg"></a></code>
 <code><a href="https://code.visualstudio.com" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code>
 
+## Contact Me 📫
+
+<p align="left">
+<a href="https://dev.to/uguruyar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="uguruyar" height="20" width="20" /></a>
+<a href="https://twitter.com/uguruyarx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="uguruyarx" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/uguruyar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="uguruyar" height="20" width="20" /></a>
+<a href="https://instagram.com/uguruyarx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="uguruyarx" height="20" width="20" /></a>
+</p>
+
+
+You can find and get touch with me on these accounts!
 
 - 🔭 I’m currently working on [LibraryManager](https://github.com/uguruyar/LibraryManager)
 
@@ -33,10 +44,3 @@
 
 - ⚡ Fun fact **Member Of Jedi Council**
 
-
-<p align="center">
-<a href="https://dev.to/uguruyar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="uguruyar" height="20" width="20" /></a>
-<a href="https://twitter.com/uguruyarx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="uguruyarx" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/uguruyar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="uguruyar" height="20" width="20" /></a>
-<a href="https://instagram.com/uguruyarx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="uguruyarx" height="20" width="20" /></a>
-</p>
