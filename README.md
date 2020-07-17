@@ -9,7 +9,7 @@
 ## Know / Using 🧠
 
 <code><a href="https://www.microsoft.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></a></code>
-<code><a href="https://www.vuejs.org" target="_blank"><img height="50" src="https://seeklogo.com/images/V/vuejs-logo-17D586B587-seeklogo.com.png"></a></code>
+<code><a href="https://www.vuejs.org" target="_blank"><img height="50" src="https://www.brandeps.com/logo-download/V/Vue-JS-logo-vector-01.svg"></a></code>
 <code><a href="https://www.gitlab.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></a></code>
 <code><a href="https://code.visualstudio.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code>
 
