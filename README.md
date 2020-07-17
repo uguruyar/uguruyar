@@ -16,6 +16,9 @@
 <code><a href="https://www.docker.com/" target="_blank"><img height="40" src="https://www.brandeps.com/logo-download/D/Docker-logo-vector-01.svg"></a></code>
 <code><a href="https://code.visualstudio.com" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code>
 
+## Job
+
+I'm looking work actively as a Backend Developer.
 
 - 🔭 I’m currently working on [LibraryManager](https://github.com/uguruyar/LibraryManager)
 
@@ -27,7 +30,7 @@
 
 - 📝 I regulary write articles on [https://medium.com/@uguruyar](https://medium.com/@uguruyar)
 
-- 💬 Ask me about **Anything**
+- 💬 Ask me about **.Net Core, EntityFramework, MsSql, FluentValidation, Autofac, VueJs**
 
 - 📫 How to reach me **uguruyarx@gmail.com**
 
