@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Uğur Uyar</h1>
-<h3 align="center">A passionate Software Developer from Turkey</h3>
+<h1 align="left">Hi 👋, I'm Uğur Uyar</h1>
+<h3 align="left">A passionate Software Developer from Turkey</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uguruyar" alt="uguruyar" /> </p>
 
 - 🔭 I’m currently working on [LibraryManager](https://github.com/uguruyar/LibraryManager)
