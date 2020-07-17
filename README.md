@@ -1,33 +1,31 @@
-# Uğur Uyar
+# Here is What I'm Working On Uğur Uyar 👋
 
-<hr>
-
-### 📝 Latest articles from [dev.to](https://dev.to/uguruyar)
-
-
-
-<p align="center">
-
-<img src="https://visitor-badge.glitch.me/badge?page_id=uguruyar.uguruyar" />
-<img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fuguruyar" />
-
-</p>
-
-
-
-
-<!--
-**uguruyar/uguruyar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-### Hi there 👋
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on ... 
+- 🌱 I’m currently learning ... Vue.Js
+- 👯 I’m looking to collaborate on ... 
+- 🤔 I’m looking for help with ... AWS
+- 💬 Ask me about ... Anything
+- 📫 How to reach me: ... 
+- 😄 Pronouns: ... He/Him
+- ⚡ Fun fact: ... I am Star Wars Fan.
+
+
+<h1 align="center">Hi 👋, I'm Uğur Uyar</h1>
+<h3 align="center">A passionate Software Developer from Turkey</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=uguruyarx" alt="uguruyarx" /> </p>
+
+- 💬 Ask me about **Anything**
+
+- 📫 How to reach me **uguruyarx@gmail.com**
+
+<p align="left"><img src="https://konpa.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/></p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=uguruyarx&show_icons=true" alt="uguruyarx" /> </p>
+
+<p align="center">
+<a href="https://dev.to/uguruyar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="uguruyar" height="20" width="20" /></a>
+<a href="https://twitter.com/uguruyarx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="uguruyarx" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/uguruyar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="uguruyar" height="20" width="20" /></a>
+<a href="https://instagram.com/uguruyarx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="uguruyarx" height="20" width="20" /></a>
+</p>
