@@ -22,7 +22,7 @@ I'm looking work actively as a Backend Developer.
 
 - 🔭 I’m currently working on [LibraryManager](https://github.com/uguruyar/LibraryManager)
 
-- 👯 I’m looking to collaborate on **VueJS**
+- 👯 I’m looking to collaborate on **ReactJS**
 
 - 🤔 I’m looking for help with **ECommerce Project**
 
