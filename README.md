@@ -19,7 +19,7 @@
 
 I'm looking work actively as a Backend Developer.
 
-- 🔭 I’m currently working on [LibraryManager](https://github.com/uguruyar/LibraryManager)
+- 🔭 I’m currently working on [Twitter Clone](https://github.com/uguruyar/Twitter-Clone)
 
 - 👯 I’m looking to collaborate on **ReactJS**
 
