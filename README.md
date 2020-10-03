@@ -52,3 +52,11 @@ You can find and get touch with me on these accounts!
 <code><a href="https://www.docker.com/" target="_blank"><img height="40" src="https://www.brandeps.com/logo-download/D/Docker-logo-vector-01.svg"></a></code>
 <code><a href="https://code.visualstudio.com" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code>
 
+---
+<p>
+<a href="https://twitter.com/uguruyarx" target="blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25 /></a> 
+<a href="https://linkedin.com/in/uguruyar" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25 /></a> 
+<a target="_blank" href="mailto:uguruyarx@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" height=25/></a> 
+<a href="https://medium.com/@uguruyar" target="blank"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a>
+<a href="https://dev.to/uguruyar" target="blank"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25 /></a>
+</p>
