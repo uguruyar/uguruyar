@@ -18,6 +18,24 @@
 
 - 💬 Ask me about **.Net Core, EntityFramework, MsSql, FluentValidation, Autofac, ReactJs**
 
+
+## Contact Me 📫
+
+You can find and get touch with me on these accounts!
+
+[![Linkedin: UğurUyar](https://img.shields.io/badge/-U%C4%9Fur%20Uyar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/uguruyar/)](https://www.linkedin.com/in/uguruyar/)
+[![Twitter: UğurUyar](https://img.shields.io/twitter/url?label=U%C4%9Fur%20Uyar&style=social&url=https%3A%2F%2Ftwitter.com%2Fuguruyarx)](https://twitter.com/uguruyarx)
+[![Gmail Badge](https://img.shields.io/badge/-Uğur%20Uyar-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:uguruyarx@gmail.com)](mailto:uguruyarx@gmail.com)
+
+
+### 📝 &nbsp; Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [Cookies - Session ve JSON Web Token (Jwt)](https://medium.com/@uguruyar/cookies-session-ve-json-web-token-jwt-9293813f1f7f)
+- [How to use SQL Server in Docker on Windows and move database backup to container](https://medium.com/@uguruyar/how-to-use-sql-server-in-docker-on-windows-and-move-database-backup-to-container-accb6b487558)
+- [Resources For Developers](https://medium.com/@uguruyar/resources-for-developers-dddb644f975d)
+<!-- BLOG-POST-LIST:END -->
+
+
 ## Know / Using 🧠
 
 <code><a href="https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-3.1" target="_blank"><img height="40" src="https://www.brandeps.com/logo-download/M/Microsoft-Dotnet-logo-vector-01.svg"></a></code>
@@ -28,12 +46,4 @@
 <code><a href="https://reactnative.dev/" target="_blank"><img height="40" src="https://www.brandeps.com/logo-download/R/React-logo-vector-01.svg"></a></code>
 <code><a href="https://www.docker.com/" target="_blank"><img height="40" src="https://www.brandeps.com/logo-download/D/Docker-logo-vector-01.svg"></a></code>
 <code><a href="https://code.visualstudio.com" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code>
-
-## Contact Me 📫
-
-You can find and get touch with me on these accounts!
-
-[![Linkedin: UğurUyar](https://img.shields.io/badge/-U%C4%9Fur%20Uyar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/uguruyar/)](https://www.linkedin.com/in/uguruyar/)
-[![Twitter: UğurUyar](https://img.shields.io/twitter/url?label=U%C4%9Fur%20Uyar&style=social&url=https%3A%2F%2Ftwitter.com%2Fuguruyarx)](https://twitter.com/uguruyarx)
-[![Gmail Badge](https://img.shields.io/badge/-Uğur%20Uyar-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:uguruyarx@gmail.com)](mailto:uguruyarx@gmail.com)
 
