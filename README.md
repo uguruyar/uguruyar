@@ -18,15 +18,7 @@
 
 - 💬 Ask me about **.Net Core, EntityFramework, MsSql, FluentValidation, Autofac, ReactJs**
 
-
-## Contact Me 📫
-
-You can find and get touch with me on these accounts!
-
-[![Linkedin: UğurUyar](https://img.shields.io/badge/-U%C4%9Fur%20Uyar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/uguruyar/)](https://www.linkedin.com/in/uguruyar/)
-[![Twitter: UğurUyar](https://img.shields.io/twitter/url?label=U%C4%9Fur%20Uyar&style=social&url=https%3A%2F%2Ftwitter.com%2Fuguruyarx)](https://twitter.com/uguruyarx)
-[![Gmail Badge](https://img.shields.io/badge/-Uğur%20Uyar-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:uguruyarx@gmail.com)](mailto:uguruyarx@gmail.com)
-
+---
 
 ### 📝 &nbsp; Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -53,6 +45,9 @@ You can find and get touch with me on these accounts!
 <code><a href="https://code.visualstudio.com" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code>
 
 ---
+## Contact Me 📫
+
+You can find and get touch with me on these accounts!
 <p>
 <a href="https://twitter.com/uguruyarx" target="blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25 /></a> 
 <a href="https://linkedin.com/in/uguruyar" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25 /></a> 
