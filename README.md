@@ -37,12 +37,17 @@ You can find and get touch with me on these accounts!
 
 
 ## Know / Using 🧠
-
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/89bdd9644f44d1b12180fd512b95574fe4c54617/topics/github-api/github-api.png"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png"></code>
+<code><img height="30" src="https://i0.wp.com/stickker.net/wp-content/uploads/2018/05/postman.png?fit=610%2C610&ssl=1"></code>
 <code><a href="https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-3.1" target="_blank"><img height="40" src="https://www.brandeps.com/logo-download/M/Microsoft-Dotnet-logo-vector-01.svg"></a></code>
 <code><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img height="40" src="https://www.brandeps.com/logo-download/C/C-Sharp-logo-vector-01.svg"></a></code>
 <code><a href="https://www.microsoft.com/tr-tr/sql-server/sql-server-downloads/" target="_blank"><img height="40" src="https://www.brandeps.com/logo-download/M/Microsoft-sql-server-logo-vector-01.svg"></a></code>
-<code><a href="#" target="_blank"><img height="40" src="https://www.brandeps.com/logo-download/H/HTML-5-logo-vector-01.svg"></a></code>
-<code><a href="https://getbootstrap.com/" target="_blank"><img height="40" src="https://www.brandeps.com/logo-download/B/Bootstrap-logo-vector-01.svg"></a></code>
 <code><a href="https://reactnative.dev/" target="_blank"><img height="40" src="https://www.brandeps.com/logo-download/R/React-logo-vector-01.svg"></a></code>
 <code><a href="https://www.docker.com/" target="_blank"><img height="40" src="https://www.brandeps.com/logo-download/D/Docker-logo-vector-01.svg"></a></code>
 <code><a href="https://code.visualstudio.com" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code>
