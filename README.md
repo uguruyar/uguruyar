@@ -1,8 +1,22 @@
-<h1 align="left">Hi 👋, I'm Uğur Uyar</h1>
+<h1 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Uğur Uyar</h1>
 <h3 align="left">A Software Developer from Turkey</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uguruyar" alt="uguruyar" /> </p>
 
 ![Uğur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=uguruyar&show_icons=true)
+
+
+
+## About
+
+- 🌱 &nbsp; I’m currently learning **[PostgreSQL](https://www.postgresql.org/), [ReactJs](https://reactjs.org/)**
+
+- 📝 &nbsp; I regulary write articles on [Medium](https://medium.com/@uguruyar)
+
+- 🙇 I’m currently working on [Twitter Clone](https://github.com/uguruyar/Twitter-Clone)
+
+- 👯 I’m looking to collaborate on **ReactJS**
+
+- 💬 Ask me about **.Net Core, EntityFramework, MsSql, FluentValidation, Autofac, ReactJs**
 
 ## Know / Using 🧠
 
@@ -14,26 +28,6 @@
 <code><a href="https://reactnative.dev/" target="_blank"><img height="40" src="https://www.brandeps.com/logo-download/R/React-logo-vector-01.svg"></a></code>
 <code><a href="https://www.docker.com/" target="_blank"><img height="40" src="https://www.brandeps.com/logo-download/D/Docker-logo-vector-01.svg"></a></code>
 <code><a href="https://code.visualstudio.com" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code>
-
-## Job
-
-I'm looking work actively as a Backend Developer.
-
-- 🔭 I’m currently working on [Twitter Clone](https://github.com/uguruyar/Twitter-Clone)
-
-- 👯 I’m looking to collaborate on **ReactJS**
-
-- 🤔 I’m looking for help with **ECommerce Project**
-
-- 👨‍💻 All of my projects are available at ...
-
-- 📝 I regulary write articles on [https://medium.com/@uguruyar](https://medium.com/@uguruyar)
-
-- 💬 Ask me about **.Net Core, EntityFramework, MsSql, FluentValidation, Autofac, VueJs**
-
-- 📫 How to reach me **uguruyarx@gmail.com**
-
-- ⚡ Fun fact **Member Of Jedi Council**
 
 ## Contact Me 📫
 
