@@ -18,7 +18,6 @@
 
 - 💬 Ask me about **.Net Core, EntityFramework, MsSql, FluentValidation, Autofac, ReactJs**
 
----
 
 ### 📝 &nbsp; Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
