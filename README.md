@@ -2,7 +2,7 @@
 <h3 align="left">A Software Developer from Turkey</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uguruyar" alt="uguruyar" /> </p>
 
-![Uğur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=uguruyar&show_icons=true)
+![Uğur's Github Stats](https://github-readme-stats.vercel.app/api?username=uguruyar&show_icons=true&theme=monokai)
 
 
 
