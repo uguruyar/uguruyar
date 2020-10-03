@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Uğur Uyar</h1>
-<h3 align="left">A passionate Software Developer from Turkey</h3>
+<h3 align="left">A Software Developer from Turkey</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uguruyar" alt="uguruyar" /> </p>
 
 ![Uğur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=uguruyar&show_icons=true)
@@ -39,10 +39,7 @@ I'm looking work actively as a Backend Developer.
 
 You can find and get touch with me on these accounts!
 
-<p align="left">
-<a href="https://dev.to/uguruyar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="uguruyar" height="20" width="20" /></a>
-<a href="https://twitter.com/uguruyarx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="uguruyarx" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/uguruyar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="uguruyar" height="20" width="20" /></a>
-<a href="https://instagram.com/uguruyarx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="uguruyarx" height="20" width="20" /></a>
-</p>
+[![Linkedin: UğurUyar](https://img.shields.io/badge/-U%C4%9Fur%20Uyar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/uguruyar/)](https://www.linkedin.com/in/uguruyar/)
+[![Twitter: UğurUyar](https://img.shields.io/twitter/url?label=U%C4%9Fur%20Uyar&style=social&url=https%3A%2F%2Ftwitter.com%2Fuguruyarx)](https://twitter.com/uguruyarx)
+[![Gmail Badge](https://img.shields.io/badge/-Uğur%20Uyar-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:uguruyarx@gmail.com)](mailto:uguruyarx@gmail.com)
 
