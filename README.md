@@ -12,8 +12,6 @@
 
 - 📝 &nbsp; I regulary write articles on [Medium](https://medium.com/@uguruyar)
 
-- 🙇 I’m currently working on [Twitter Clone](https://github.com/uguruyar/Twitter-Clone)
-
 - 👯 I’m looking to collaborate on **ReactJS**
 
 - 💬 Ask me about **.Net Core, EntityFramework, MsSql, FluentValidation, Autofac, ReactJs**
