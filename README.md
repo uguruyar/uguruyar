@@ -1,10 +1,22 @@
 ### <p align="center">Hi There<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Uğur Uyar!</p>
-<h3 align="left">A Software Developer from Turkey</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=uguruyar" alt="uguruyar" /> </p>
+<h6 align="center">Software Developer (Turkey)</h6>
 
-![Uğur's Github Stats](https://github-readme-stats.vercel.app/api?username=uguruyar&show_icons=true&theme=monokai)
+---
 
-![Twitter URL](https://img.shields.io/twitter/url?label=Follow%20Me&style=social&url=https%3A%2F%2Ftwitter.com%2Fuguruyarx)
+## Contact Me 📫
+
+You can find and get touch with me on these accounts!
+<p>
+<a href="https://twitter.com/uguruyarx" target="blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25 /></a> 
+<a href="https://linkedin.com/in/uguruyar" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25 /></a> 
+<a target="_blank" href="mailto:uguruyarx@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" height=25/></a> 
+<a href="https://medium.com/@uguruyar" target="blank"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a>
+<a href="https://dev.to/uguruyar" target="blank"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25 /></a>
+</p>
+
+
+
+
 
 ## About
 
@@ -44,13 +56,3 @@
 <code><a href="https://code.visualstudio.com" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code>
 
 ---
-## Contact Me 📫
-
-You can find and get touch with me on these accounts!
-<p>
-<a href="https://twitter.com/uguruyarx" target="blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25 /></a> 
-<a href="https://linkedin.com/in/uguruyar" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25 /></a> 
-<a target="_blank" href="mailto:uguruyarx@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" height=25/></a> 
-<a href="https://medium.com/@uguruyar" target="blank"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a>
-<a href="https://dev.to/uguruyar" target="blank"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25 /></a>
-</p>
