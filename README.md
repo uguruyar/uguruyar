@@ -1,4 +1,4 @@
-### <p align="center">Hi There<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Uğur Uyar!</p>
+### <h4 align="center">Hi There<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Uğur Uyar!</h4>
 <h6 align="center">Software Developer (Turkey)</h6>
 
 ---
