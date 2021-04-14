@@ -47,8 +47,8 @@ You can find and get touch with me on these accounts!
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uguruyar&hide=java,html,css&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uguruyar&hide=java,html,css&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=uguruyar&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=uguruyar&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
