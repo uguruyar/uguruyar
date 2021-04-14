@@ -4,7 +4,7 @@
 
 ![Uğur's Github Stats](https://github-readme-stats.vercel.app/api?username=uguruyar&show_icons=true&theme=monokai)
 
-
+![Twitter URL](https://img.shields.io/twitter/url?label=Follow%20Me&style=social&url=https%3A%2F%2Ftwitter.com%2Fuguruyarx)
 
 ## About
 
