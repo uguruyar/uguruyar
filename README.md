@@ -3,43 +3,18 @@
 
 ---
 
-## Contact Me 📫
+#### About Me
 
-You can find and get touch with me on these accounts!
-<p>
-<a href="https://twitter.com/uguruyarx" target="blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25 /></a> 
-<a href="https://linkedin.com/in/uguruyar" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25 /></a> 
-<a target="_blank" href="mailto:uguruyarx@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" height=25/></a> 
-<a href="https://medium.com/@uguruyar" target="blank"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a>
-<a href="https://dev.to/uguruyar" target="blank"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25 /></a>
-</p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id dui a massa scelerisque pellentesque. Integer ut quam in ante laoreet faucibus. Maecenas interdum lobortis massa eget sollicitudin. **lorem** lorem.
 
+Donec non ultrices mauris. Vestibulum euismod eleifend ullamcorper. Proin sodales sem sit amet dui tristique, a convallis felis auctor. Integer interdum velit sit amet consequat elementum. Proin nisi lorem, dignissim consectetur diam ac, vulputate gravida ex
 
+Integer ut feugiat felis, in fermentum lacus. In hac habitasse platea dictumst. Sed dictum vitae erat sit amet vulputate. [Blog](https://uguruyar.com) and [Medium](https://medium.com/@uguruyar) Integer pulvinar libero lorem, vel ornare felis aliquam placerat. Curabitur purus risus, commodo non efficitur nec, pellentesque ornare nibh.
 
+---
 
+🧰 Toolbox
 
-## About
-
-- 🌱 &nbsp; I’m currently learning **[PostgreSQL](https://www.postgresql.org/), [ReactJs](https://reactjs.org/)**
-
-- 📝 &nbsp; I regulary write articles on [Medium](https://medium.com/@uguruyar)
-
-- 👯 I’m looking to collaborate on **ReactJS**
-
-- 💬 Ask me about **.Net Core, EntityFramework, MsSql, FluentValidation, Autofac, ReactJs**
-
-&nbsp;
-
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Cookies - Session ve JSON Web Token (Jwt)](https://medium.com/@uguruyar/cookies-session-ve-json-web-token-jwt-9293813f1f7f)
-- [How to use SQL Server in Docker on Windows and move database backup to container](https://medium.com/@uguruyar/how-to-use-sql-server-in-docker-on-windows-and-move-database-backup-to-container-accb6b487558)
-- [Resources For Developers](https://medium.com/@uguruyar/resources-for-developers-dddb644f975d)
-<!-- BLOG-POST-LIST:END -->
-
-&nbsp;
-
-## Know / Using 🧠
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -56,3 +31,24 @@ You can find and get touch with me on these accounts!
 <code><a href="https://code.visualstudio.com" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code>
 
 ---
+
+## Contact Me 📫
+
+You can find and get touch with me on these accounts!
+<p>
+<a href="https://twitter.com/uguruyarx" target="blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25 /></a> 
+<a href="https://linkedin.com/in/uguruyar" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25 /></a> 
+<a target="_blank" href="mailto:uguruyarx@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" height=25/></a> 
+<a href="https://medium.com/@uguruyar" target="blank"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a>
+<a href="https://dev.to/uguruyar" target="blank"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25 /></a>
+</p>
+
+---
+
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uguruyar&hide=java,html,css&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=uguruyar&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
