@@ -8,7 +8,6 @@
 - 🤔 My interest lies in Back-End Web Development with C# and Go
 
 <p style="display: inline-block;" align="center">
-    
     <kbd>
         <kbd>Programming Languages</kbd>
     <br>
@@ -16,7 +15,6 @@
         <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" /> 
         <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
     </kbd>
-
     <kbd>
         <kbd>Backend</kbd>
     <br>
@@ -24,7 +22,6 @@
         <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
         <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
     </kbd>
-
     <kbd>
         <kbd>Front-end</kbd>
     <br>
@@ -35,7 +32,6 @@
         <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
         <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     </kbd>
-
     <kbd>
         <kbd>Database</kbd>
     <br>
@@ -45,7 +41,6 @@
         <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />        
         <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
     </kbd>
-
     <kbd>
         <kbd>System, Networking & Deployment</kbd>
     <br>
@@ -55,7 +50,6 @@
         <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
         <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />        
     </kbd>
-
     <kbd>
         <kbd>Tools</kbd>
     <br>
