@@ -63,11 +63,7 @@
 
 <h2 align="center">My Github Stats</h2>
 <p align="left">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uguruyar&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
-<br>
-<br>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=uguruyar&count_private=true&show_icons=trueline_height=21&theme=github_dark">
-
 <br>
 <p align="left">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uguruyar&theme=holi-theme">
